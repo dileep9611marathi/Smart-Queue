@@ -1,0 +1,6 @@
+Flask>=3.0.0
+qrcode>=8.0.0
+pillow>=10.0.0
+gTTS>=2.5.0
+deep-translator>=1.11.0
+gunicorn
